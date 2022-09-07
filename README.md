@@ -4,7 +4,7 @@ A simple script based on qbcore for admins to manage scene.
 # Config
 ```
 Config.menuLocation = 'topright' -- scene manager menu position
-Config.maxDistance = 500 -- interaction distance distance
+Config.maxDistance = 500 -- interaction distance
 ```
 
 # Dependencies:
