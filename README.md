@@ -19,5 +19,3 @@ https://youtu.be/4PjmLSy1TZ8
 
 # Discord
 Not yet :D
-
-# Big thanks to abdel1touimi for his rework <3
