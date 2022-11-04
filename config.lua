@@ -1,3 +1,3 @@
-Config = {}
-Config.menuLocation = 'topright'
-Config.maxDistance = 500
+sceneManagerConfig = {}
+sceneManagerConfig.menuLocation = 'topright'
+sceneManagerConfig.maxDistance = 500
